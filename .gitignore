@@ -11,3 +11,4 @@ pipeline.sh
 /*.py
 tmp*
 **/__pycache__/
+/_zip
